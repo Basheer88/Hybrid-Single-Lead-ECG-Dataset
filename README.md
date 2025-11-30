@@ -24,7 +24,7 @@ All these steps are implemented in the scripts/notebooks in this repository so t
 
 - 📄 **Published research article:**  
   You can read the full methodological details in our paper:  
-  👉 [Link to the published article](xx)
+  👉 [Link to the published article]((https://link.springer.com/article/10.1007/s13721-025-00663-6))
 
 - 📊 **Ready-to-use dataset on Kaggle:**  
   If you don’t want to rebuild from scratch, you can directly download the final dataset here:  
